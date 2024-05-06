@@ -34,3 +34,6 @@
  13 - Para clonar un proyecto: git clone 
 
  14 - Para crear rama + el nombre de la rama: git branch "testing" 
+
+
+#### Hola. PRonto agregare la parte de repasar historial en git.
